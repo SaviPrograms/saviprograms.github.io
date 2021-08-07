@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FSaviPrograms\u002F_nuxt\u002Fstatic\u002F1628374814",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002FSaviPrograms\u002F",assetsPath:"\u002FSaviPrograms\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"44288823"}}}}(null));
